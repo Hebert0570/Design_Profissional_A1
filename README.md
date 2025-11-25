@@ -16,8 +16,6 @@ Este repositório serve como o **documento central de entrega** da Avaliação A
 | **4** | **Repositórios das Disciplinas** | 4 links de repositórios distintos (com README e estrutura básica) | **Concluído** | **Ver Seção 2: Links dos Repositórios** |
 | **5** | **Certificado de Participação em Evento** | Certificado digital (tecnologia/educação) | **Concluído** | Arquivo: `Certificado Simpósio.jpeg` |
 
----
-
 ## 2. Links para os Repositórios de Organização Digital
 
 A organização dos repositórios abaixo demonstra a competência em gestão de conhecimento e versionamento de código, com *README*s robustos que contextualizam o aprendizado.
@@ -29,9 +27,7 @@ A organização dos repositórios abaixo demonstra a competência em gestão de 
 * **Algoritmos e Pensamento Computacional:** **[[Link do Repositório de Algoritmos](https://github.com/Hebert0570/Algoritmos-e-Pensamento-Computacional-)]**
 * **Desenvolvimento Front-End para Web:** **[[Link do Repositório de Front-End](https://github.com/Hebert0570/Desenvolvimento-Front-End-para-Web)]**
 * **Modelagem de Banco de Dados:** **[[Link do Repositório de Banco de Dados](https://github.com/Hebert0570/Modelagem-de-Banco-de-Dados)]**
-* **Fundamentos de TI / Comunicação / Outra Disciplina:** **[[Link do Quarto Repositório](https://github.com/Hebert0570/Design-Profissional-)]**
-
----
+* **Design Profissional:** **[[Link do Quarto Repositório](https://github.com/Hebert0570/Design-Profissional-)]**
 
 ## 3. Referência aos Arquivos Anexados
 
