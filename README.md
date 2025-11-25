@@ -11,9 +11,13 @@ Este repositório serve como o **documento central de entrega** da Avaliação A
 | # | Entregável (1,0 ponto cada) | Evidência Requerida | Status | Link ou Arquivo para Acesso |
 
 | **1** | **Participação em Processo Seletivo** | Print da candidatura | **Concluído** | Arquivo: `Processo Seletivo.jpeg` |
+
 | **2** | **Currículo Lattes** | Link do Currículo Lattes | **Concluído** | [http://lattes.cnpq.br/5160013788411810](http://lattes.cnpq.br/5160013788411810) |
+
 | **3** | **Portfólio no GitHub** | Repositório com Código e README Estruturado | **Concluído** | **[Link do Repositório do Portifólio]** |
+
 | **4** | **Repositórios das Disciplinas** | 4 links de repositórios distintos (com README e estrutura básica) | **Concluído** | **Ver Seção 2: Links dos Repositórios** |
+
 | **5** | **Certificado de Participação em Evento** | Certificado digital (tecnologia/educação) | **Concluído** | Arquivo: `Certificado Simpósio.jpeg` |
 
 ## 2. Links para os Repositórios de Organização Digital
